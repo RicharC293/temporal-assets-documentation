@@ -1,0 +1,1173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Shappi</name>
+    <description>Shappi LM coverage</description>
+    <Style id="poly-0097A7-1200-77-normal">
+      <LineStyle>
+        <color>ffa79700</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4da79700</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-0097A7-1200-77-highlight">
+      <LineStyle>
+        <color>ffa79700</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4da79700</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-0097A7-1200-77">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-0097A7-1200-77-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-0097A7-1200-77-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-9C27B0-1200-77-normal">
+      <LineStyle>
+        <color>ffb0279c</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4db0279c</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-9C27B0-1200-77-highlight">
+      <LineStyle>
+        <color>ffb0279c</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4db0279c</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-9C27B0-1200-77">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-9C27B0-1200-77-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-9C27B0-1200-77-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-FF5252-1200-77-normal">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d5252ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-FF5252-1200-77-highlight">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d5252ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-FF5252-1200-77">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-FF5252-1200-77-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-FF5252-1200-77-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-FFFFFF-1200-0-normal">
+      <LineStyle>
+        <color>ffffffff</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>00ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-FFFFFF-1200-0-highlight">
+      <LineStyle>
+        <color>ffffffff</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>00ffffff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-FFFFFF-1200-0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-FFFFFF-1200-0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-FFFFFF-1200-0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>shappi</name>
+      <Placemark>
+        <name>23</name>
+        <description>Quito</description>
+        <styleUrl>#poly-FFFFFF-1200-0</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -78.498513,-0.0916764,0
+                -78.5338753,-0.0882432,0
+                -78.521859,-0.2049725,0
+                -78.5725942,-0.2833401,0
+                -78.559548,-0.3904549,0
+                -78.5327688,-0.3877084,0
+                -78.5135427,-0.300506,0
+                -78.4881368,-0.3410174,0
+                -78.4517447,-0.3420474,0
+                -78.4386984,-0.3330354,0
+                -78.427712,-0.3243666,0
+                -78.4077993,-0.3108055,0
+                -78.4833303,-0.2201693,0
+                -78.4668508,-0.1933903,0
+                -78.4565511,-0.2249758,0
+                -78.4098592,-0.2352754,0
+                -78.396813,-0.1721044,0
+                -78.4407583,-0.1446387,0
+                -78.4469381,-0.0931404,0
+                -78.498513,-0.0916764,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>SPIDY</name>
+      <Placemark>
+        <name>Quito</name>
+        <description><![CDATA[last_mile_delivery_geofence_id: 11<br>show_supplier: true<br>show_customer: true<br>city_id: 237343]]></description>
+        <styleUrl>#poly-9C27B0-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="last_mile_delivery_geofence_id">
+            <value>11.0</value>
+          </Data>
+          <Data name="show_supplier">
+            <value>1</value>
+          </Data>
+          <Data name="show_customer">
+            <value>1</value>
+          </Data>
+          <Data name="city_id">
+            <value>237343.0</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -78.5731092,-0.2828251,0
+                -78.560063,-0.3899399,0
+                -78.5446134,-0.3899399,0
+                -78.5332838,-0.3871934,0
+                -78.5140577,-0.299991,0
+                -78.4881368,-0.3410174,0
+                -78.4447064,-0.3453088,0
+                -78.439385,-0.3711435,0
+                -78.4187856,-0.3676245,0
+                -78.4136357,-0.3413607,0
+                -78.4148392,-0.303944,0
+                -78.4258667,-0.3012354,0
+                -78.4407799,-0.2851208,0
+                -78.4480648,-0.2784798,0
+                -78.4481399,-0.2579343,0
+                -78.4838453,-0.2196543,0
+                -78.4673658,-0.1928753,0
+                -78.4570661,-0.2244608,0
+                -78.4103742,-0.2347604,0
+                -78.3669439,-0.2084964,0
+                -78.3863417,-0.1767392,0
+                -78.4412733,-0.1441237,0
+                -78.4124342,-0.0854157,0
+                -78.4530278,-0.0704783,0
+                -78.4778285,-0.064124,0
+                -78.5028911,-0.0812901,0
+                -78.5343903,-0.0877282,0
+                -78.5314025,-0.1157123,0
+                -78.4954245,-0.1630857,0
+                -78.5731092,-0.2828251,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Guayaquil</name>
+        <description><![CDATA[last_mile_delivery_geofence_id: 12<br>show_supplier: true<br>show_customer: true<br>city_id: 237344]]></description>
+        <styleUrl>#poly-9C27B0-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="last_mile_delivery_geofence_id">
+            <value>12.0</value>
+          </Data>
+          <Data name="show_supplier">
+            <value>1</value>
+          </Data>
+          <Data name="show_customer">
+            <value>1</value>
+          </Data>
+          <Data name="city_id">
+            <value>237344.0</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -79.948621,-2.2031316,0
+                -79.9494364,-2.2210997,0
+                -79.9461319,-2.232378,0
+                -79.9400446,-2.2337978,0
+                -79.9204752,-2.2399729,0
+                -79.9124004,-2.2391534,0
+                -79.9062206,-2.2389819,0
+                -79.8969938,-2.239668,0
+                -79.8870803,-2.2355513,0
+                -79.8878528,-2.2319491,0
+                -79.8880246,-2.2249163,0
+                -79.8751499,-2.1791166,0
+                -79.8504306,-2.1434364,0
+                -79.8555805,-2.0830526,0
+                -79.8456132,-2.0751079,0
+                -79.8322129,-2.0767699,0
+                -79.8071289,-2.0680851,0
+                -79.8088028,-2.0616947,0
+                -79.8074725,-2.0441536,0
+                -79.8322346,-2.0365625,0
+                -79.8710299,-2.0339036,0
+                -79.8765659,-2.0466628,0
+                -79.8824454,-2.0508443,0
+                -79.8847629,-2.0583496,0
+                -79.8924877,-2.0688144,0
+                -79.8912861,-2.0820234,0
+                -79.9115421,-2.0952332,0
+                -79.9479344,-2.0909439,0
+                -79.9489644,-2.1279976,0
+                -79.9513676,-2.1400056,0
+                -79.948621,-2.2031316,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>URBANO</name>
+      <Placemark>
+        <name>Guayaquil 1</name>
+        <description><![CDATA[last_mile_delivery_geofence_id: 18<br>show_supplier: true<br>show_customer: true<br>city_id: 237344]]></description>
+        <styleUrl>#poly-FF5252-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="last_mile_delivery_geofence_id">
+            <value>18.0</value>
+          </Data>
+          <Data name="show_supplier">
+            <value>1</value>
+          </Data>
+          <Data name="show_customer">
+            <value>1</value>
+          </Data>
+          <Data name="city_id">
+            <value>237344.0</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -79.9479344,-2.0909439,0
+                -79.9115421,-2.0952332,0
+                -79.8912861,-2.0820234,0
+                -79.8924877,-2.0688144,0
+                -79.8847629,-2.0583496,0
+                -79.908636,-2.0531315,0
+                -79.9388484,-2.0641107,0
+                -79.9388484,-2.0435246,0
+                -79.960821,-2.0442108,0
+                -79.9549845,-2.0725166,0
+                -79.9846819,-2.0795501,0
+                -79.9876002,-2.089843,0
+                -80.0035647,-2.1128302,0
+                -80.0174693,-2.1107716,0
+                -80.0181559,-2.132043,0
+                -79.9888018,-2.1356454,0
+                -79.9809054,-2.1253529,0
+                -79.9760989,-2.1413063,0
+                -79.9513676,-2.1400056,0
+                -79.9489644,-2.1279976,0
+                -79.9479344,-2.0909439,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Cuenca</name>
+        <description><![CDATA[last_mile_delivery_geofence_id: 15<br>show_supplier: false<br>show_customer: true<br>city_id: 237345]]></description>
+        <styleUrl>#poly-0097A7-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="last_mile_delivery_geofence_id">
+            <value>15.0</value>
+          </Data>
+          <Data name="show_supplier">
+            <value>0</value>
+          </Data>
+          <Data name="show_customer">
+            <value>1</value>
+          </Data>
+          <Data name="city_id">
+            <value>237345.0</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -79.0404084,-2.9255537,0
+                -79.0187791,-2.9207534,0
+                -79.0041879,-2.9197248,0
+                -79.0004113,-2.9221249,0
+                -78.9866784,-2.9154388,0
+                -78.9734605,-2.9017236,0
+                -78.9605859,-2.8948659,0
+                -78.9470246,-2.8832078,0
+                -78.9548352,-2.8603197,0
+                -78.9604142,-2.8541477,0
+                -78.9869357,-2.8541049,0
+                -78.9911629,-2.8590661,0
+                -78.9921285,-2.8648846,0
+                -78.9966348,-2.8770358,0
+                -79.0215257,-2.8790931,0
+                -79.0342286,-2.887151,0
+                -79.0404084,-2.9255537,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Salinas, St Elena</name>
+        <description><![CDATA[last_mile_delivery_geofence_id: 16<br>show_supplier: false<br>show_customer: true<br>city_id: 237370]]></description>
+        <styleUrl>#poly-FF5252-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="last_mile_delivery_geofence_id">
+            <value>16.0</value>
+          </Data>
+          <Data name="show_supplier">
+            <value>0</value>
+          </Data>
+          <Data name="show_customer">
+            <value>1</value>
+          </Data>
+          <Data name="city_id">
+            <value>237370.0</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -81.0083762,-2.1895561,0
+                -80.9237501,-2.2714616,0
+                -80.9128921,-2.2936526,0
+                -80.8972273,-2.3130991,0
+                -80.8969478,-2.322222,0
+                -80.9007883,-2.3316879,0
+                -80.8911314,-2.3379273,0
+                -80.8873548,-2.3256638,0
+                -80.8754244,-2.3229623,0
+                -80.8729354,-2.3233481,0
+                -80.848645,-2.2408429,0
+                -80.83723,-2.2255767,0
+                -80.8683005,-2.1977898,0
+                -80.9122458,-2.2238629,0
+                -80.9458914,-2.2176878,0
+                -80.9534445,-2.2019067,0
+                -80.9754172,-2.203279,0
+                -80.99121,-2.1833808,0
+                -81.0083762,-2.1895561,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Guayaquil 3</name>
+        <description><![CDATA[last_mile_delivery_geofence_id: 20<br>show_supplier: true<br>show_customer: true<br>city_id: 237344]]></description>
+        <styleUrl>#poly-FF5252-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="last_mile_delivery_geofence_id">
+            <value>20.0</value>
+          </Data>
+          <Data name="show_supplier">
+            <value>1</value>
+          </Data>
+          <Data name="show_customer">
+            <value>1</value>
+          </Data>
+          <Data name="city_id">
+            <value>237344.0</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -79.860034,-2.178192,0
+                -79.8579741,-2.187455,0
+                -79.8447561,-2.1879696,0
+                -79.838748,-2.1929441,0
+                -79.8346281,-2.2010063,0
+                -79.7846747,-2.160352,0
+                -79.7874212,-2.1564066,0
+                -79.806819,-2.1589797,0
+                -79.8087073,-2.1531473,0
+                -79.8190069,-2.1481727,0
+                -79.82759,-2.1480011,0
+                -79.8306799,-2.1419972,0
+                -79.8409796,-2.1505742,0
+                -79.8468161,-2.1646405,0
+                -79.8536825,-2.1694436,0
+                -79.860034,-2.178192,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>La Valvina</name>
+        <description><![CDATA[last_mile_delivery_geofence_id: 17<br>show_supplier: true<br>show_customer: true<br>city_id: 237343]]></description>
+        <styleUrl>#poly-FF5252-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="last_mile_delivery_geofence_id">
+            <value>17.0</value>
+          </Data>
+          <Data name="show_supplier">
+            <value>1</value>
+          </Data>
+          <Data name="show_customer">
+            <value>1</value>
+          </Data>
+          <Data name="city_id">
+            <value>237343.0</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -78.4881368,-0.3410174,0
+                -78.4898994,-0.3616539,0
+                -78.4727332,-0.3753865,0
+                -78.4447064,-0.3453088,0
+                -78.4881368,-0.3410174,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Pomasqui</name>
+        <description><![CDATA[last_mile_delivery_geofence_id: 22<br>show_supplier: true<br>show_customer: true<br>city_id: 237343]]></description>
+        <styleUrl>#poly-0097A7-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="last_mile_delivery_geofence_id">
+            <value>22.0</value>
+          </Data>
+          <Data name="show_supplier">
+            <value>1</value>
+          </Data>
+          <Data name="show_customer">
+            <value>1</value>
+          </Data>
+          <Data name="city_id">
+            <value>237343.0</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -78.4778285,-0.064124,0
+                -78.46577,-0.0672132,0
+                -78.4530278,-0.0704783,0
+                -78.448998,-0.0719403,0
+                -78.4380117,-0.0759743,0
+                -78.4297178,-0.0790436,0
+                -78.4124342,-0.0854157,0
+                -78.4172724,-0.0777561,0
+                -78.4255122,-0.0636798,0
+                -78.4397601,-0.0602467,0
+                -78.4476564,-0.0568134,0
+                -78.4380435,-0.0362999,0
+                -78.4335803,-0.0130398,0
+                -78.4419966,-0.0121684,0
+                -78.4462881,-0.0173183,0
+                -78.452468,-0.0133701,0
+                -78.4591578,-0.0423938,0
+                -78.4673975,-0.0542385,0
+                -78.4778285,-0.064124,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Guayaquil 2</name>
+        <description><![CDATA[last_mile_delivery_geofence_id: 19<br>show_supplier: true<br>show_customer: true<br>city_id: 237344]]></description>
+        <styleUrl>#poly-FF5252-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="last_mile_delivery_geofence_id">
+            <value>19.0</value>
+          </Data>
+          <Data name="show_supplier">
+            <value>1</value>
+          </Data>
+          <Data name="show_customer">
+            <value>1</value>
+          </Data>
+          <Data name="city_id">
+            <value>237344.0</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -79.8870803,-2.2355513,0
+                -79.8969938,-2.239668,0
+                -79.9062206,-2.2389819,0
+                -79.9124004,-2.2391534,0
+                -79.9204752,-2.2399729,0
+                -79.9400446,-2.2337978,0
+                -79.9263117,-2.2495786,0
+                -79.9220202,-2.2527519,0
+                -79.9136946,-2.249064,0
+                -79.9095747,-2.2574689,0
+                -79.9136088,-2.2765084,0
+                -79.8991894,-2.2850856,0
+                -79.8720669,-2.2771955,0
+                -79.8751568,-2.2699914,0
+                -79.8665737,-2.2593567,0
+                -79.8870803,-2.2355513,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Amaguaña</name>
+        <description><![CDATA[last_mile_delivery_geofence_id: 23<br>show_supplier: true<br>show_customer: true<br>city_id: 237343]]></description>
+        <styleUrl>#poly-0097A7-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="last_mile_delivery_geofence_id">
+            <value>23.0</value>
+          </Data>
+          <Data name="show_supplier">
+            <value>1</value>
+          </Data>
+          <Data name="show_customer">
+            <value>1</value>
+          </Data>
+          <Data name="city_id">
+            <value>237343.0</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -78.4898994,-0.3616539,0
+                -78.5044316,-0.3611173,0
+                -78.5161046,-0.3806863,0
+                -78.5227994,-0.3772532,0
+                -78.5306958,-0.3887542,0
+                -78.5226277,-0.3937323,0
+                -78.5114697,-0.3870377,0
+                -78.4949902,-0.3805147,0
+                -78.4727332,-0.3753865,0
+                -78.4898994,-0.3616539,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Ambato</name>
+        <description><![CDATA[last_mile_delivery_geofence_id: 10<br>show_supplier: false<br>show_customer: true<br>city_id: 237347]]></description>
+        <styleUrl>#poly-0097A7-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="last_mile_delivery_geofence_id">
+            <value>10.0</value>
+          </Data>
+          <Data name="show_supplier">
+            <value>0</value>
+          </Data>
+          <Data name="show_customer">
+            <value>1</value>
+          </Data>
+          <Data name="city_id">
+            <value>237347.0</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -78.6369764,-1.2970474,0
+                -78.6369764,-1.3037405,0
+                -78.6270201,-1.2987636,0
+                -78.6120855,-1.2893246,0
+                -78.6050474,-1.2893246,0
+                -78.6086523,-1.272506,0
+                -78.606764,-1.2687304,0
+                -78.6060774,-1.2651264,0
+                -78.6043608,-1.2626379,0
+                -78.6047041,-1.2615224,0
+                -78.6041891,-1.2604926,0
+                -78.6021291,-1.2492514,0
+                -78.6014425,-1.2256536,0
+                -78.6071074,-1.2249671,0
+                -78.6186087,-1.2253103,0
+                -78.6350881,-1.2294292,0
+                -78.6512243,-1.2522549,0
+                -78.6459028,-1.2568886,0
+                -78.6447012,-1.2699317,0
+                -78.6443579,-1.2886381,0
+                -78.6369764,-1.2970474,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Santo Domingo</name>
+        <description><![CDATA[last_mile_delivery_geofence_id: 9<br>show_supplier: false<br>show_customer: true<br>city_id: 237357]]></description>
+        <styleUrl>#poly-0097A7-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="last_mile_delivery_geofence_id">
+            <value>9.0</value>
+          </Data>
+          <Data name="show_supplier">
+            <value>0</value>
+          </Data>
+          <Data name="show_customer">
+            <value>1</value>
+          </Data>
+          <Data name="city_id">
+            <value>237357.0</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -79.2189499,-0.2469287,0
+                -79.2206665,-0.2997998,0
+                -79.1156097,-0.2544817,0
+                -79.1602417,-0.2366291,0
+                -79.1568084,-0.2194631,0
+                -79.1980072,-0.2170599,0
+                -79.2189499,-0.2469287,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Riobamba</name>
+        <description><![CDATA[last_mile_delivery_geofence_id: 8<br>show_supplier: false<br>show_customer: true<br>city_id: 237349]]></description>
+        <styleUrl>#poly-0097A7-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="last_mile_delivery_geofence_id">
+            <value>8.0</value>
+          </Data>
+          <Data name="show_supplier">
+            <value>0</value>
+          </Data>
+          <Data name="show_customer">
+            <value>1</value>
+          </Data>
+          <Data name="city_id">
+            <value>237349.0</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -78.6496802,-1.687868,0
+                -78.6476202,-1.7026245,0
+                -78.6354323,-1.7051982,0
+                -78.6366339,-1.6950747,0
+                -78.6307974,-1.7055414,0
+                -78.6253043,-1.7033108,0
+                -78.6191244,-1.7117185,0
+                -78.6110564,-1.7072573,0
+                -78.6189528,-1.7005654,0
+                -78.612773,-1.6978201,0
+                -78.6206694,-1.6923293,0
+                -78.6124297,-1.6835784,0
+                -78.6222144,-1.677058,0
+                -78.6265059,-1.669165,0
+                -78.6162062,-1.6554379,0
+                -78.6398955,-1.6338174,0
+                -78.6476202,-1.6494322,0
+                -78.6596365,-1.6501186,0
+                -78.6694212,-1.6307288,0
+                -78.6769743,-1.6296992,0
+                -78.6752577,-1.6242083,0
+                -78.6840124,-1.6166582,0
+                -78.6874457,-1.6192321,0
+                -78.6853857,-1.6236935,0
+                -78.6936255,-1.6291844,0
+                -78.6913939,-1.6326163,0
+                -78.6948271,-1.6434265,0
+                -78.6986037,-1.6442845,0
+                -78.7027235,-1.6411959,0
+                -78.7094183,-1.6369061,0
+                -78.7147398,-1.6425686,0
+                -78.7082167,-1.6487458,0
+                -78.7119933,-1.6580117,0
+                -78.7071867,-1.668307,0
+                -78.6987753,-1.6614435,0
+                -78.6927672,-1.6664196,0
+                -78.6848708,-1.669165,0
+                -78.6699362,-1.6660764,0
+                -78.6677046,-1.671224,0
+                -78.6895056,-1.6789455,0
+                -78.6749144,-1.6964474,0
+                -78.665988,-1.6904418,0
+                -78.6604948,-1.6912998,0
+                -78.6575766,-1.6990212,0
+                -78.6522551,-1.696619,0
+                -78.6496802,-1.687868,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Loja</name>
+        <description><![CDATA[last_mile_delivery_geofence_id: 7<br>show_supplier: false<br>show_customer: true<br>city_id: 237355]]></description>
+        <styleUrl>#poly-0097A7-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="last_mile_delivery_geofence_id">
+            <value>7.0</value>
+          </Data>
+          <Data name="show_supplier">
+            <value>0</value>
+          </Data>
+          <Data name="show_customer">
+            <value>1</value>
+          </Data>
+          <Data name="city_id">
+            <value>237355.0</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -79.2235115,-3.9356694,0
+                -79.2353561,-3.938752,0
+                -79.2381027,-3.9527949,0
+                -79.2434242,-3.9490273,0
+                -79.2532089,-3.9581037,0
+                -79.2348411,-3.9742012,0
+                -79.2504623,-3.9921821,0
+                -79.2051437,-4.0456088,0
+                -79.1835144,-4.0079365,0
+                -79.1896942,-3.9654675,0
+                -79.2041137,-3.9406358,0
+                -79.2235115,-3.9356694,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Manta</name>
+        <description><![CDATA[last_mile_delivery_geofence_id: 6<br>show_supplier: false<br>show_customer: true<br>city_id: 237346]]></description>
+        <styleUrl>#poly-0097A7-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="last_mile_delivery_geofence_id">
+            <value>6.0</value>
+          </Data>
+          <Data name="show_supplier">
+            <value>0</value>
+          </Data>
+          <Data name="show_customer">
+            <value>1</value>
+          </Data>
+          <Data name="city_id">
+            <value>237346.0</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -80.7790878,-0.9531889,0
+                -80.7701614,-0.9751585,0
+                -80.7608917,-1.0050231,0
+                -80.686734,-1.0105154,0
+                -80.6668213,-0.9679497,0
+                -80.6633881,-0.950786,0
+                -80.6633881,-0.9288163,0
+                -80.6819275,-0.9463234,0
+                -80.7152298,-0.9494129,0
+                -80.7269028,-0.9387713,0
+                -80.7543686,-0.9442637,0
+                -80.7650116,-0.9425474,0
+                -80.7790878,-0.9531889,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Machala</name>
+        <description><![CDATA[last_mile_delivery_geofence_id: 5<br>show_supplier: false<br>show_customer: true<br>city_id: 237354]]></description>
+        <styleUrl>#poly-0097A7-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="last_mile_delivery_geofence_id">
+            <value>5.0</value>
+          </Data>
+          <Data name="show_supplier">
+            <value>0</value>
+          </Data>
+          <Data name="show_customer">
+            <value>1</value>
+          </Data>
+          <Data name="city_id">
+            <value>237354.0</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -80.0004552,-3.2550901,0
+                -80.0047468,-3.2715429,0
+                -79.9947904,-3.2727426,0
+                -79.9935888,-3.2636593,0
+                -79.9839758,-3.2592034,0
+                -79.9673246,-3.2847392,0
+                -79.9602865,-3.2847392,0
+                -79.9583982,-3.2885096,0
+                -79.9474119,-3.2825113,0
+                -79.9371122,-3.2897092,0
+                -79.9197744,-3.2616027,0
+                -79.9304174,-3.2557757,0
+                -79.9249242,-3.2497772,0
+                -79.9393438,-3.2360663,0
+                -79.9518751,-3.2298963,0
+                -79.9594282,-3.2405224,0
+                -79.9755643,-3.2420648,0
+                -80.0004552,-3.2550901,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Portoviejo</name>
+        <description><![CDATA[last_mile_delivery_geofence_id: 4<br>show_supplier: false<br>show_customer: true<br>city_id: 237356]]></description>
+        <styleUrl>#poly-0097A7-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="last_mile_delivery_geofence_id">
+            <value>4.0</value>
+          </Data>
+          <Data name="show_supplier">
+            <value>0</value>
+          </Data>
+          <Data name="show_customer">
+            <value>1</value>
+          </Data>
+          <Data name="city_id">
+            <value>237356.0</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -80.4648634,-1.0058748,0
+                -80.500569,-1.0216652,0
+                -80.4943892,-1.0295604,0
+                -80.5094954,-1.0460372,0
+                -80.4964491,-1.0504996,0
+                -80.4940459,-1.0642302,0
+                -80.5064055,-1.0642302,0
+                -80.5012556,-1.0779607,0
+                -80.4923293,-1.0765876,0
+                -80.4789397,-1.0783039,0
+                -80.4658934,-1.0707522,0
+                -80.4713866,-1.0817366,0
+                -80.4480406,-1.0827663,0
+                -80.4336211,-1.087572,0
+                -80.4305312,-1.0765876,0
+                -80.4339644,-1.0518727,0
+                -80.4604002,-1.0326498,0
+                -80.4593703,-1.0110239,0
+                -80.4648634,-1.0058748,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Ibarra</name>
+        <description><![CDATA[last_mile_delivery_geofence_id: 3<br>show_supplier: false<br>show_customer: true<br>city_id: 237348]]></description>
+        <styleUrl>#poly-0097A7-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="last_mile_delivery_geofence_id">
+            <value>3.0</value>
+          </Data>
+          <Data name="show_supplier">
+            <value>0</value>
+          </Data>
+          <Data name="show_customer">
+            <value>1</value>
+          </Data>
+          <Data name="city_id">
+            <value>237348.0</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -78.1421279,0.3515342,0
+                -78.1529426,0.3405481,0
+                -78.1510543,0.3348833,0
+                -78.139553,0.334025,0
+                -78.1373214,0.3276737,0
+                -78.1241035,0.313426,0
+                -78.1035041,0.3261288,0
+                -78.1103705,0.3360849,0
+                -78.1040191,0.3458695,0
+                -78.1143188,0.3618337,0
+                -78.1141471,0.3724765,0
+                -78.1261634,0.3851791,0
+                -78.1398963,0.3693866,0
+                -78.1421279,0.3515342,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Latacunga</name>
+        <description><![CDATA[last_mile_delivery_geofence_id: 2<br>show_supplier: false<br>show_customer: true<br>city_id: 237358]]></description>
+        <styleUrl>#poly-0097A7-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="last_mile_delivery_geofence_id">
+            <value>2.0</value>
+          </Data>
+          <Data name="show_supplier">
+            <value>0</value>
+          </Data>
+          <Data name="show_customer">
+            <value>1</value>
+          </Data>
+          <Data name="city_id">
+            <value>237358.0</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -78.6034886,-0.9851196,0
+                -78.5818593,-0.9346582,0
+                -78.5969655,-0.9075392,0
+                -78.6319844,-0.904793,0
+                -78.6309545,-0.8759573,0
+                -78.6460607,-0.8660021,0
+                -78.6563603,-0.8824797,0
+                -78.658077,-0.9308821,0
+                -78.6285512,-0.9374044,0
+                -78.6034886,-0.9851196,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Esmeraldas</name>
+        <description><![CDATA[last_mile_delivery_geofence_id: 1<br>show_supplier: false<br>show_customer: true<br>city_id: 237368]]></description>
+        <styleUrl>#poly-0097A7-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="last_mile_delivery_geofence_id">
+            <value>1.0</value>
+          </Data>
+          <Data name="show_supplier">
+            <value>0</value>
+          </Data>
+          <Data name="show_customer">
+            <value>1</value>
+          </Data>
+          <Data name="city_id">
+            <value>237368.0</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -79.6645325,0.9871055,0
+                -79.6679657,0.9709717,0
+                -79.6643608,0.9512334,0
+                -79.6499413,0.9399053,0
+                -79.63844,0.9371591,0
+                -79.6159523,0.955696,0
+                -79.6197289,0.993456,0
+                -79.625222,0.9932844,0
+                -79.6302002,0.9709717,0
+                -79.6401566,0.9759492,0
+                -79.6430748,0.9889935,0
+                -79.649083,0.9975753,0
+                -79.6645325,0.9871055,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>La Merced</name>
+        <description><![CDATA[last_mile_delivery_geofence_id: 14<br>show_supplier: true<br>show_customer: true<br>city_id: 237343]]></description>
+        <styleUrl>#poly-FF5252-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="last_mile_delivery_geofence_id">
+            <value>14.0</value>
+          </Data>
+          <Data name="show_supplier">
+            <value>1</value>
+          </Data>
+          <Data name="show_customer">
+            <value>1</value>
+          </Data>
+          <Data name="city_id">
+            <value>237343.0</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -78.4148392,-0.303944,0
+                -78.3935531,-0.3006825,0
+                -78.3975872,-0.2871214,0
+                -78.4043678,-0.2801692,0
+                -78.424275,-0.2890788,0
+                -78.4279601,-0.2877747,0
+                -78.4363604,-0.2898011,0
+                -78.4258667,-0.3012354,0
+                -78.4148392,-0.303944,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>San Antonio de Pichincha</name>
+        <description><![CDATA[last_mile_delivery_geofence_id: 21<br>show_supplier: true<br>show_customer: true<br>city_id: 237343]]></description>
+        <styleUrl>#poly-0097A7-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="last_mile_delivery_geofence_id">
+            <value>21.0</value>
+          </Data>
+          <Data name="show_supplier">
+            <value>1</value>
+          </Data>
+          <Data name="show_customer">
+            <value>1</value>
+          </Data>
+          <Data name="city_id">
+            <value>237343.0</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -78.4581328,-0.0028988,0
+                -78.4605146,-0.0090357,0
+                -78.4577465,-0.0102802,0
+                -78.4546137,-0.0118252,0
+                -78.452468,-0.0133701,0
+                -78.451438,-0.0139924,0
+                -78.4502578,-0.0147434,0
+                -78.4462881,-0.0173183,0
+                -78.4419966,-0.0121684,0
+                -78.4377051,0.00886,0
+                -78.4538412,0.0158982,0
+                -78.4636259,-6.64e-05,0
+                -78.4581328,-0.0028988,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
